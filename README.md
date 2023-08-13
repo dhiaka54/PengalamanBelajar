@@ -1,7 +1,7 @@
 # PengalamanBelajar
 Repositori ini berisi pengalaman Belajarku di Bangkit dalam lingkup Dicoding
 
-7 Agustus 2023
+__7 Agustus 2023__<br>
 Setelah mendapatkan email Credential and Onboarding Resources
 - Saya mengaktifkan email bangkit
 - Melihat dan masuk ke classroom ML-51
