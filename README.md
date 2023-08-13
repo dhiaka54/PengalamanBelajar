@@ -1,5 +1,5 @@
 # PengalamanBelajar
-Repositori ini berisi pengalaman Belajarku di Bangkit dalam lingkup DIcoding
+Repositori ini berisi pengalaman Belajarku di Bangkit dalam lingkup Dicoding
 
 7 Agustus 2023
 Setelah mendapatkan email Credential and Onboarding Resources
